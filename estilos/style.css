@@ -88,6 +88,7 @@ header p {
 nav {
     background-color: var(--cor0);
     padding: 10px;
+    padding-bottom: 15px;
     box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.411);
 }
 nav > a {
