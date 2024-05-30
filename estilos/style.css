@@ -83,6 +83,7 @@ header p {
     font-size: 1.3em;
     max-width: 500px;
     text-shadow: 2px 2px 0px black;
+    padding-bottom: 10px;
 }
 nav {
     background-color: var(--cor0);
